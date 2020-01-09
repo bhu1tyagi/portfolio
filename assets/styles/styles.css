@@ -239,7 +239,7 @@ h1, h2, h3, h4, h5, h6 {
 		background-color: rgba(255, 103, 68, 0.91) !important;
 		color: #fff;
 }
-i:hover {
+.my-arrow-div i:hover {
 	box-shadow: 0 10px 20px 0 rgba(0, 0, 0, 0.2), 0 4px 14px 1px rgba(0, 0, 0, 0.2);
 	background: rgba(255,255,255,0.1);
 	color: rgba(255, 103, 68, 0.91);
